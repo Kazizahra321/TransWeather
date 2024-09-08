@@ -1,0 +1,103 @@
+/* App.css */
+
+.outer {
+  background-image: url("C:\Users\admin\Climate\react-weather-app\public\2uty.gif"); /* Animated background GIF */
+  background-size: cover;
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  );
+  width: 320px;
+  height: 600px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 1rem;
+  animation: fadeIn 2s ease-in;
+  color: white;
+}
+
+.container_date {
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.container_city {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+
+.container_degree {
+  font-size: 4rem;
+  font-weight: 800;
+  margin: 1rem 0;
+}
+
+.container_img {
+  width: 180px;
+  transition: transform 0.3s ease;
+}
+
+.container_img:hover {
+  transform: scale(1.2);
+}
+
+.country_per {
+  font-size: 18px;
+}
+
+.input {
+  border: none;
+  padding: 1rem;
+  border-radius: 0px 0px 0px 15px;
+  background: #e8e8e8;
+  transition: 0.3s;
+}
+
+.input:focus {
+  background: #e8e8e8;
+  box-shadow: inset 20px 20px 60px #e8e8e8, inset -20px -20px 60px #ffffff;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.spinner {
+  border: 8px solid #f3f3f3;
+  border-top: 8px solid #3498db;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
