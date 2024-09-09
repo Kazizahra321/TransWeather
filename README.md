@@ -31,12 +31,12 @@
 - **Azure App Service**: Hosting the TransWeather app, providing a scalable and reliable environment for deployment
 
 ## Project Demo
-**Project URL**: TransWeather Live Demo
-**Demo Video**: Watch Video
-**Repository URL**
-**GitHub Repository**: TransWeather on GitHub
-**Sample Search**
-Sample city: London
+- **Project URL**: TransWeather Live Demo
+- **Demo Video**: Watch Video
+- **Repository URL**
+- **GitHub Repository**: TransWeather on GitHub
+- **Sample Search**
+   Sample city: London
 
 ## Azure Services Used
 **1. Azure App Service**:
@@ -46,7 +46,7 @@ Integrated Azure’s translation service to allow weather information to be tran
 
 ## Future Enhancements:
 
-**Push Notifications**:
+- **Push Notifications**:
 
 Implement push notifications to alert users about sudden weather changes or extreme weather conditions.
 Voice Search:
@@ -56,7 +56,7 @@ Machine Learning for Predictive Weather Analysis:
 
 Implement predictive analysis to provide future weather predictions based on historical data and patterns.
 
-**Machine Learning for Predictive Weather Analysis**:
+- **Machine Learning for Predictive Weather Analysis**:
 
 Implement predictive analysis to provide future weather predictions based on historical data and patterns.
 
