@@ -31,7 +31,7 @@
 - **Azure App Service**: Hosting the TransWeather app, providing a scalable and reliable environment for deployment
 
 ## Project Demo
-- **Project URL**: TransWeather Live Demo
+- **Project URL**: [TransWeather Live Demo](https://transweather-chbfhfbfeuaegefj.centralindia-01.azurewebsites.net/)
 - **Demo Video**: Watch Video
 - **Repository URL**
 - **GitHub Repository**: TransWeather on GitHub
@@ -40,9 +40,9 @@
 
 ## Azure Services Used
 **1. Azure App Service**:
-Deployed the front-end React.js application to Azure App Service, ensuring scalability, reliability, and easy deployment.
+- Deployed the front-end React.js application to Azure App Service, ensuring scalability, reliability, and easy deployment.
 **2. Azure Cognitive Services – Text Translation**:
-Integrated Azure’s translation service to allow weather information to be translated.
+- Integrated Azure’s translation service to allow weather information to be translated.
 
 ## Future Enhancements:
 
@@ -64,7 +64,7 @@ Implement predictive analysis to provide future weather predictions based on his
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/Kazizahra321/TransWeather.git
 Navigate into the project directory:
 
