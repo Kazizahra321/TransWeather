@@ -41,8 +41,17 @@
 - **Azure Portal with all the resources**
 ![Screenshot (24)](https://github.com/user-attachments/assets/b72bc90d-dcfa-4712-a924-e6db5b13aff4)
 
-- **Azure Portal with all the resources**
+- **Resource group**
 ![Screenshot (25)](https://github.com/user-attachments/assets/07fc715b-ec35-46aa-b999-c8aca7c897e2)
+
+- **Translator sevice**
+![Screenshot (26)](https://github.com/user-attachments/assets/22877824-83d9-4182-a23d-82b11959600a)
+
+- **App sevice**
+![Screenshot (27)](https://github.com/user-attachments/assets/31b3a75a-0eb9-4e7c-8fcf-d13ede04a023)
+
+- **Working Demo**
+![Screenshot (28)](https://github.com/user-attachments/assets/da2a2d03-8ace-472e-ab77-9fe3a5801851)
 
 ## Azure Services Used
 **1. Azure App Service**:
