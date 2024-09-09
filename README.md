@@ -17,36 +17,36 @@
 - **Azure Translator Text API**: For translating weather descriptions.
 - **Material-UI**: For UI components.
 - **CSS**: For styling and animations.
-- 
+ 
 ## APIs:
-OpenWeatherMap API: Fetches real-time weather data and forecasts.
-Azure Text Translation API: Provides support by translating weather information.
+- **OpenWeatherMap API**: Fetches real-time weather data and forecasts.
+- **Azure Text Translation API**: Provides support by translating weather information.
 
-Frontend:
-React.js: Used to create the frontend application and manage UI interactions.
-Material-UI: For styling and layout to create a modern and responsive interface.
-JavaScript (ES6+): Core programming language used.
+**Frontend**:
+- **React.js**: Used to create the frontend application and manage UI interactions.
+- **Material-UI**: For styling and layout to create a modern and responsive interface.
+- **JavaScript (ES6+)**: Core programming language used.
 
-Backend:
-Azure App Service: Hosting the TransWeather app, providing a scalable and reliable environment for deployment
+**Backend**:
+- **Azure App Service**: Hosting the TransWeather app, providing a scalable and reliable environment for deployment
 
 ## Project Demo
-Project URL: TransWeather Live Demo
-Demo Video: Watch Video
-Repository URL
-GitHub Repository: TransWeather on GitHub
-Sample Search
+**Project URL**: TransWeather Live Demo
+**Demo Video**: Watch Video
+**Repository URL**
+**GitHub Repository**: TransWeather on GitHub
+**Sample Search**
 Sample city: London
 
 ## Azure Services Used
-1. Azure App Service:
+**1. Azure App Service**:
 Deployed the front-end React.js application to Azure App Service, ensuring scalability, reliability, and easy deployment.
-2. Azure Cognitive Services – Text Translation:
+**2. Azure Cognitive Services – Text Translation**:
 Integrated Azure’s translation service to allow weather information to be translated.
 
 ## Future Enhancements:
 
-Push Notifications:
+**Push Notifications**:
 
 Implement push notifications to alert users about sudden weather changes or extreme weather conditions.
 Voice Search:
@@ -56,19 +56,10 @@ Machine Learning for Predictive Weather Analysis:
 
 Implement predictive analysis to provide future weather predictions based on historical data and patterns.
 
-## Future Enhancements:
-Dynamic Weather Icons:
-
-Integrate animated weather icons (GIFs) that change based on the current weather conditions (e.g., rain, snow, sunny).
-Push Notifications:
-
-Implement push notifications to alert users about sudden weather changes or extreme weather conditions.
-Voice Search:
-
-Add support for voice-based city searches using speech recognition to improve user accessibility.
-Machine Learning for Predictive Weather Analysis:
+**Machine Learning for Predictive Weather Analysis**:
 
 Implement predictive analysis to provide future weather predictions based on historical data and patterns.
+
 ## Installation
 
 1. Clone the repository:
