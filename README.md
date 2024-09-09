@@ -33,8 +33,7 @@
 ## Project Demo
 - **Project URL**: [TransWeather Live Demo](https://transweather-chbfhfbfeuaegefj.centralindia-01.azurewebsites.net/)
 - **Demo Video**: Watch Video
-- **Repository URL**
-- **GitHub Repository**: TransWeather on GitHub
+- **GitHub Repository URL**: [TransWeather on GitHub](https://github.com/Kazizahra321/TransWeather)
 - **Sample Search**
    Sample city: London
 
