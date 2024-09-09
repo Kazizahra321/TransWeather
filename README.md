@@ -36,6 +36,8 @@
 - **GitHub Repository URL**: [TransWeather on GitHub](https://github.com/Kazizahra321/TransWeather)
 - **Sample Search**
    Sample city: London
+## Screenshots
+![Screenshot (24)](https://github.com/user-attachments/assets/b72bc90d-dcfa-4712-a924-e6db5b13aff4)
 
 ## Azure Services Used
 **1. Azure App Service**:
