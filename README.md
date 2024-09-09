@@ -37,7 +37,12 @@
 - **Sample Search**
    Sample city: London
 ## Screenshots
+
+- **Azure Portal with all the resources**
 ![Screenshot (24)](https://github.com/user-attachments/assets/b72bc90d-dcfa-4712-a924-e6db5b13aff4)
+
+- **Azure Portal with all the resources**
+![Screenshot (25)](https://github.com/user-attachments/assets/07fc715b-ec35-46aa-b999-c8aca7c897e2)
 
 ## Azure Services Used
 **1. Azure App Service**:
