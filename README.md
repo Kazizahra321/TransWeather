@@ -35,7 +35,7 @@
 - **Demo Video**: Watch Video
 - **GitHub Repository URL**: [TransWeather on GitHub](https://github.com/Kazizahra321/TransWeather)
 - **Sample Search**
-   Sample city: London
+  - Sample city: London
 ## Screenshots
 
 - **Azure Portal with all the resources**
@@ -56,6 +56,7 @@
 ## Azure Services Used
 **1. Azure App Service**:
 - Deployed the front-end React.js application to Azure App Service, ensuring scalability, reliability, and easy deployment.
+  
 **2. Azure Cognitive Services – Text Translation**:
 - Integrated Azure’s translation service to allow weather information to be translated.
 
